@@ -1,0 +1,13 @@
+[gd_scene load_steps=3 format=1]
+
+[ext_resource path="res://Ghost.png" type="Texture" id=1]
+[ext_resource path="res://GhostScript.gd" type="Script" id=2]
+
+[node name="ghost" type="Sprite"]
+
+transform/pos = Vector2( 133.222, 180.715 )
+transform/rot = -0.0787004
+texture = ExtResource( 1 )
+script/script = ExtResource( 2 )
+
+
