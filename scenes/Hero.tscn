@@ -2,7 +2,9 @@
 
 [ext_resource path="res://images/hero.png" type="Texture" id=1]
 
-[node name="Sprite" type="Sprite"]
+[node name="hero" type="Node2D"]
+
+[node name="Sprite" type="Sprite" parent="."]
 
 texture = ExtResource( 1 )
 
