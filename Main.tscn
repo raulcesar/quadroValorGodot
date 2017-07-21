@@ -1,12 +1,5 @@
-[gd_scene load_steps=3 format=1]
+[gd_scene format=1]
 
-[ext_resource path="res://Screen-Resolutions.png" type="Texture" id=1]
-[ext_resource path="res://GhostScript.gd" type="Script" id=2]
-
-[node name="ghost" type="Sprite"]
-
-texture = ExtResource( 1 )
-centered = false
-script/script = ExtResource( 2 )
+[node name="MainSceneRoot" type="Node2D"]
 
 

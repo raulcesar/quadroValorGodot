@@ -1,0 +1,2 @@
+1) - Unit ghosts are spawned in "libre area"
+2) - 
