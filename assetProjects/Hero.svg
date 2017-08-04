@@ -657,11 +657,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.3736953"
-     inkscape:cx="324.16166"
-     inkscape:cy="603.28773"
+     inkscape:zoom="3.885397"
+     inkscape:cx="456.37583"
+     inkscape:cy="663.52363"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer7"
+     inkscape:current-layer="layer1"
      showgrid="false"
      showguides="true"
      inkscape:snap-global="false"
@@ -1166,7 +1166,8 @@
      inkscape:groupmode="layer"
      id="layer7"
      inkscape:label="hands"
-     style="display:inline">
+     style="display:inline"
+     sodipodi:insensitive="true">
     <path
        style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#0000ff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.26458341;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
        d="m 124.58323,149.92997 c 0.28736,2.70584 0.72727,5.24095 3.1895,4.58051 2.46223,-0.66043 5.90496,-0.45081 2.52873,-5.15143 -1.71266,-2.38446 -4.59388,-3.96272 -5.69094,-3.5955 -1.84977,1.40824 -0.32065,1.40408 -0.0273,4.16642 z"
@@ -1274,9 +1275,24 @@
   </g>
   <g
      inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="Bullet">
+    <path
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;vector-effect:none;fill:#ffdd55;fill-opacity:1;fill-rule:nonzero;stroke:#d40000;stroke-width:0.26458333;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       d="m 120.18677,117.29767 c 0,1.38286 -0.45273,-0.25403 -1.01119,-0.25403 -0.55846,-1e-5 -1.01118,1.63688 -1.01118,0.25403 0,-1.38285 0.45272,-2.50388 1.01118,-2.50389 0.55846,0 1.01119,1.12103 1.01119,2.50389 z"
+       id="path6208"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="scscs"
+       inkscape:export-filename="/home/raul/DevProjects/QuadroValor2D/images/bullet.png"
+       inkscape:export-xdpi="197.73"
+       inkscape:export-ydpi="197.73" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
      id="layer5"
      inkscape:label="Boots"
-     style="display:inline">
+     style="display:inline"
+     sodipodi:insensitive="true">
     <g
        id="g8121"
        transform="rotate(-17.481728,-228.56885,22.245162)">
@@ -1395,7 +1411,8 @@
      inkscape:groupmode="layer"
      id="layer4"
      inkscape:label="Shoulders"
-     style="display:inline">
+     style="display:inline"
+     sodipodi:insensitive="true">
     <g
        id="g7561"
        transform="translate(52.599859,-90.037631)">
@@ -1453,7 +1470,8 @@
      inkscape:groupmode="layer"
      id="layer8"
      inkscape:label="HeadShiny"
-     style="display:inline">
+     style="display:inline"
+     sodipodi:insensitive="true">
     <g
        style="display:inline"
        id="g7478-3"

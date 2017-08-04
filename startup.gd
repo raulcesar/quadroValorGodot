@@ -9,7 +9,7 @@ func _ready():
 	# Initialization here
 	var root = get_tree().get_root()
 	#OS.set_window_fullscreen(true)
-	set_process_input(true)
+#	set_process_input(true)
 	print("hello all")
 	
 func _input(event):
